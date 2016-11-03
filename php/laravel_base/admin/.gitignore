@@ -1,0 +1,13 @@
+/node_modules
+/public
+/storage
+/vendor
+/.idea
+/bootstrap
+/config
+/routes
+/tests
+/vendor
+Homestead.json
+Homestead.yaml
+.env
